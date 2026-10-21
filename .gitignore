@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables & secrets
+.env
+dotenv
+
+# Runtime & cache
+html_cache/
+tmp_backup/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
